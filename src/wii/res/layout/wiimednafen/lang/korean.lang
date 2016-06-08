@@ -1,0 +1,782 @@
+msgid "(2d) Red/black"
+msgstr "(2D) 빨강/검정"
+
+msgid "(2d) White/black"
+msgstr "(2D) 하양/검정"
+
+msgid "(3d) Green/red"
+msgstr "(3d) 초록/빨강"
+
+msgid "(3d) Red/blue"
+msgstr "(3d) 빨강/파랑"
+
+msgid "(3d) Red/cyan"
+msgstr "(3D) 빨강/청록"
+
+msgid "(3d) Red/electric cyan"
+msgstr "(3D) 빨강/일렉트릭 청록"
+
+msgid "(3d) Red/green"
+msgstr "(3d) 빨강/초록"
+
+msgid "(3d) Yellow/blue"
+msgstr "(3D) 노랑/파랑"
+
+msgid "(auto)"
+msgstr "(자동)"
+
+msgid "(default)"
+msgstr "(기본값)"
+
+msgid "(none)"
+msgstr "(없음)"
+
+msgid "(normal)"
+msgstr "(보통)"
+
+msgid "(rewind)"
+msgstr "(되감기)"
+
+msgid "(rotate screen)"
+msgstr "(화면 회전)"
+
+msgid "(special)"
+msgstr "(스페셜)"
+
+msgid "1 item found."
+msgstr "1 아이템을 찾았습니다."
+
+msgid "16:9 correction"
+msgstr "16:9 보정"
+
+msgid "2-button pad"
+msgstr "2 버튼 패드"
+
+msgid "270 degrees"
+msgstr "270 도"
+
+msgid "2x/Full screen"
+msgstr "2x/전체 화면"
+
+msgid "3-button pad"
+msgstr "3 버튼 패드"
+
+msgid "3x/Full screen"
+msgstr "3x/전체 화면"
+
+msgid "4x/Full screen"
+msgstr "4x/전체 화면"
+
+msgid "6-button pad"
+msgstr "6 버튼 패드"
+
+msgid "90 degrees"
+msgstr "90 도"
+
+msgid "A/2 button"
+msgstr "A/2 버튼"
+
+msgid "Accept changes"
+msgstr "변경 허용"
+
+msgid "Activate spin/power meter"
+msgstr "회전/파워 미터 활성화"
+
+msgid "Advanced"
+msgstr "고급"
+
+msgid "Aim left"
+msgstr "왼쪽 조준"
+
+msgid "Aim right"
+msgstr "오른쪽 조준"
+
+msgid "Aim"
+msgstr "조준"
+
+msgid "Ascend"
+msgstr "상승"
+
+msgid "Aspect ratio"
+msgstr "가로 세로 비율"
+
+msgid "Attack"
+msgstr "공격"
+
+msgid "Attempting to mount drive..."
+msgstr "드라이브 마운트 시도 중..."
+
+msgid "Auto fire"
+msgstr "자동 발사"
+
+msgid "Auto"
+msgstr "자동"
+
+msgid "B/1 button"
+msgstr "B/1 버튼"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Bilinear filter"
+msgstr "이중 성형 필터"
+
+msgid "Bowl"
+msgstr "사발"
+
+msgid "Button 1"
+msgstr "버튼 1"
+
+msgid "Button 2"
+msgstr "버튼 2"
+
+msgid "Button mappings"
+msgstr "버튼 맵핑"
+
+msgid "button pad"
+msgstr "버튼 패드"
+
+msgid "Cancel changes"
+msgstr "변경 취소"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cast/reel in"
+msgstr "캐스트 인/릴 인"
+
+msgid "Change altitude"
+msgstr "높이 변경"
+
+msgid "Change layer"
+msgstr "레이어 변경"
+
+msgid "Change perspective"
+msgstr "관점 변경"
+
+msgid "Charge power"
+msgstr "전원 충전"
+
+msgid "Cheats"
+msgstr "치트"
+
+msgid "Check configuration file."
+msgstr "구성 파일을 확인합니다."
+
+msgid "Classic"
+msgstr "클래식"
+
+msgid "Color trap filter"
+msgstr "색상 트랩 필터"
+
+msgid "Console region"
+msgstr "콘솔 지역"
+
+msgid "Control settings"
+msgstr "조작 설정"
+
+msgid "Controller"
+msgstr "컨트롤러"
+
+msgid "Custom"
+msgstr "사용자 정의"
+
+msgid "D-pad/Analog"
+msgstr "D-패드/아날로그"
+
+msgid "Debug mode"
+msgstr "디버그 모드"
+
+msgid "Decrease speed"
+msgstr "속도 감소"
+
+msgid "Delete settings"
+msgstr "설정 삭제"
+
+msgid "Descend"
+msgstr "하강"
+
+msgid "Destroy drone"
+msgstr "드론 파괴"
+
+msgid "Disabled"
+msgstr "사용 불가"
+
+msgid "Disk 0 side A inserted."
+msgstr "디스크 0에 사이드 A를 삽입합니다."
+
+msgid "Disk 0 side B inserted."
+msgstr "디스크 0에 사이드 B를 삽입합니다."
+
+msgid "Display mode"
+msgstr "화면 모드"
+
+msgid "Display settings"
+msgstr "화면 설정"
+
+msgid "Domestic (Japan)"
+msgstr "국내 (일본)"
+
+msgid "Double strike (240p)"
+msgstr "더블 스트라이크 (240P)"
+
+msgid "Down"
+msgstr "아래쪽"
+
+msgid "Drone 1"
+msgstr "드론 1"
+
+msgid "Drone 2"
+msgstr "드론 2"
+
+msgid "Drone 3"
+msgstr "드론 3"
+
+msgid "Drone controls"
+msgstr "드론 조작"
+
+msgid "Drop faster"
+msgstr "빠른 낙하"
+
+msgid "Emulator settings"
+msgstr "에뮬레어터 설정"
+
+msgid "Enabled"
+msgstr "사용 가능"
+
+msgid "English"
+msgstr "영어"
+
+msgid "Europe"
+msgstr "유럽"
+
+msgid "Evasive maneuver"
+msgstr "회피 기동"
+
+msgid "Execute"
+msgstr "실행"
+
+msgid "Exit"
+msgstr "종료"
+
+msgid "Export (World)"
+msgstr "보내기 (세계)"
+
+msgid "External BIOS"
+msgstr "외부 바이오스"
+
+msgid "Fill screen"
+msgstr "화면 채움"
+
+msgid "Fire 1"
+msgstr "발사 1"
+
+msgid "Fire 1/Start"
+msgstr "발사 1/시작"
+
+msgid "Fire 2"
+msgstr "발사 2"
+
+msgid "Fire down"
+msgstr "아래쪽 발사"
+
+msgid "Fire left"
+msgstr "왼쪽 발사"
+
+msgid "Fire right"
+msgstr "오른쪽 발사"
+
+msgid "Fire up"
+msgstr "윗쪽 발사"
+
+msgid "Fire"
+msgstr "발사"
+
+msgid "Fires cannon/homing missile"
+msgstr "대포/자동 추적 미사일 발사"
+
+msgid "Fixed (double strike)"
+msgstr "수정 (더블 스트라이크)"
+
+msgid "Flip disk"
+msgstr "플립 디스크"
+
+msgid "Frame skip"
+msgstr "프레임 생략"
+
+msgid "Full screen"
+msgstr "전체 화면"
+
+msgid "Full widescreen"
+msgstr "전체 넓은화면"
+
+msgid "Game Gear"
+msgstr "Game Gear"
+
+msgid "Game Genie"
+msgstr "게임 지니"
+
+msgid "Game-specific settings"
+msgstr "게임-특수 설정"
+
+msgid "GameBoy Advance"
+msgstr "GameBoy Advance"
+
+msgid "GameBoy Color"
+msgstr "GameBoy Color"
+
+msgid "GameCube"
+msgstr "GameCube"
+
+msgid "Go left"
+msgstr "왼쪽 가기"
+
+msgid "Go right"
+msgstr "오른쪽 가기"
+
+msgid "GX + VI"
+msgstr "GX + VI"
+
+msgid "GX"
+msgstr "GX"
+
+msgid "Hacker"
+msgstr "해커"
+
+msgid "Home"
+msgstr "홈"
+
+msgid "Hook fish"
+msgstr "낚시 바늘"
+
+msgid "Horiz."
+msgstr "수평"
+
+msgid "Increase speed"
+msgstr "속도 증가"
+
+msgid "Insert coin"
+msgstr "동전 투입"
+
+msgid "Invalid network settings - Check configuration file."
+msgstr "잘못된 네트워크 설정 = 구성 파일 확인합니다."
+
+msgid "Invalid network settings"
+msgstr "잘못된 네트워크 설정"
+
+msgid "items found, displaying"
+msgstr "아이템 발견, 표시 중"
+
+msgid "Japan"
+msgstr "일본"
+
+msgid "Japanese"
+msgstr "일본어"
+
+msgid "Korea"
+msgstr "한국"
+
+msgid "Korean"
+msgstr "한국어"
+
+msgid "Jump"
+msgstr "점프"
+
+msgid "L-Down"
+msgstr "L-아래쪽"
+
+msgid "L-Left"
+msgstr "L-왼쪽"
+
+msgid "L-Right"
+msgstr "L-오른쪽"
+
+msgid "L-Up"
+msgstr "L-위쪽"
+
+msgid "Language (game)"
+msgstr "언어 (게임)"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Latest"
+msgstr "최신"
+
+msgid "Left flipper"
+msgstr "왼쪽 플리퍼"
+
+msgid "Left punch"
+msgstr "왼쪽 펀치"
+
+msgid "Left punch/block"
+msgstr "왼쪽 펀치/블록"
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Load game"
+msgstr "게임 불러오기"
+
+msgid "Load state"
+msgstr "상태 불러오기"
+
+msgid "Loading game..."
+msgstr "게임 불러오기 중..."
+
+msgid "Locked"
+msgstr "잠금"
+
+msgid "Lynx"
+msgstr "Lynx"
+
+msgid "Maneuver faster"
+msgstr "빠른 동작"
+
+msgid "Manual"
+msgstr "수동"
+
+msgid "Map"
+msgstr "지도"
+
+msgid "Match game header"
+msgstr "게임 헤더 일치"
+
+msgid "Mega Drive"
+msgstr "Mega Drive"
+
+msgid "Minus"
+msgstr "마이너스"
+
+msgid "Minus/LTrigger"
+msgstr "마이너스/L트리거"
+
+msgid "Mode"
+msgstr "모드"
+
+msgid "Move block"
+msgstr "블럭 이동"
+
+msgid "Move cursor"
+msgstr "커서 이동"
+
+msgid "Move left"
+msgstr "왼쪽 이동"
+
+msgid "Move right"
+msgstr "오른쪽 이동"
+
+msgid "Move"
+msgstr "이동3"
+
+msgid "Neo Geo Pocket"
+msgstr "Neo Geo Pocket"
+
+msgid "NES"
+msgstr "NES"
+
+msgid "Network Share"
+msgstr "공유 네트워크"
+
+msgid "No"
+msgstr "아니오"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Normal"
+msgstr "보통"
+
+msgid "North America"
+msgstr "북미"
+
+msgid "Note: Enabling rewind may affect performance."
+msgstr "참고: 성능에 영향을 미칠 수 있는 되감기 가능하게 합니다."
+
+msgid "Option 1"
+msgstr "옵션 1"
+
+msgid "Option 2"
+msgstr "옵션 2"
+
+msgid "Option"
+msgstr "옵션"
+
+msgid "Page"
+msgstr "페이지"
+
+msgid "Pause"
+msgstr "정지"
+
+msgid "PC Engine"
+msgstr "PC Engine"
+
+msgid "PC-FX"
+msgstr "PC-fX"
+
+msgid "Plus"
+msgstr "플러스"
+
+msgid "Plus/RTrigger"
+msgstr "플러스/R트리거"
+
+msgid "Portuguese"
+msgstr "포르투갈어"
+
+msgid "Profile"
+msgstr "프로파일"
+
+msgid "R-Down"
+msgstr "R-아래쪽"
+
+msgid "R-Left"
+msgstr "R-왼쪽"
+
+msgid "R-Right"
+msgstr "R-오른쪽"
+
+msgid "R-Up"
+msgstr "R-위쪽"
+
+msgid "Rapid"
+msgstr "연사"
+
+msgid "Reading file list..."
+msgstr "파일 목록 읽는 중..."
+
+msgid "Reload"
+msgstr "다시 불러오기"
+
+msgid "Reset to defaults"
+msgstr "기본값 리셋"
+
+msgid "Reset"
+msgstr "리셋"
+
+msgid "Resize screen"
+msgstr "화면 재조정"
+
+msgid "Resizing not supported for double strike mode."
+msgstr "재조정은 더블 스트라이크 모드를 지원하지 않습니다."
+
+msgid "Resume"
+msgstr "다시 시작"
+
+msgid "Revert to saved settings"
+msgstr "저장된 설정 복원"
+
+msgid "Rewind buttons"
+msgstr "되감기 버튼"
+
+msgid "Rewind"
+msgstr "되감기"
+
+msgid "Right flipper"
+msgstr "오른쪽 플리퍼"
+
+msgid "Right punch"
+msgstr "오른쪽 펀치"
+
+msgid "Right punch/block"
+msgstr "오른쪽 펀치/블록"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "ROM image is too large; maximum size allowed is 67108864 bytes."
+msgstr "롬 이미지가 너무 큽니다; 허용하는 최대 크기는 67108864 바이트 입니다."
+
+msgid "ROM patching"
+msgstr "롬 패치"
+
+msgid "Rotate backward"
+msgstr "뒤로 회전"
+
+msgid "Rotate clockwise"
+msgstr "시계 방향 회전"
+
+msgid "Rotate container left"
+msgstr "컨테이너 반 시계 방향 회전"
+
+msgid "Rotate container right"
+msgstr "컨테이너 시계 방향 회전"
+
+msgid "Rotate counter-clockwise"
+msgstr "반 시계 방향 회전"
+
+msgid "Rotate forward"
+msgstr "앞으로 회전"
+
+msgid "Rotated"
+msgstr "회전됨"
+
+msgid "Rotation"
+msgstr "회전"
+
+msgid "Run"
+msgstr "실행"
+
+msgid "Save settings"
+msgstr "설정 저장하기"
+
+msgid "Save state"
+msgstr "상태 저장힉;"
+
+msgid "Save states"
+msgstr "상태 저장하기"
+
+msgid "Scaler"
+msgstr "$c@L3R"
+
+msgid "Screen size"
+msgstr "화면 크기"
+
+msgid "Scroll"
+msgstr "스크롤"
+
+msgid "SD Card"
+msgstr "SD 카드"
+
+msgid "Sega Master System"
+msgstr "Sega Master System"
+
+msgid "Select unit"
+msgstr "유니트 선택"
+
+msgid "Select"
+msgstr "선택"
+
+msgid "Shake"
+msgstr "악수"
+
+msgid "Shoot"
+msgstr "사격"
+
+msgid "Show menu"
+msgstr "메뉴 보기"
+
+msgid "Sideways"
+msgstr "수평"
+
+msgid "Slot"
+msgstr "슬롯"
+
+msgid "Soft shot, lob"
+msgstr "소프트 샷, 던짐"
+
+msgid "Solid shot"
+msgstr "솔리드 샷"
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Successfully deleted cartridge settings."
+msgstr "성공적으로 카트리지 설정이 삭제되었습니다."
+
+msgid "Successfully reverted to saved settings."
+msgstr "성공적으로 저장된 설정이 복원되었습니다."
+
+msgid "Successfully saved cartridge settings."
+msgstr "성공적으로 카트리지 설정이 저장되었습니다."
+
+msgid "Successly saved state."
+msgstr "성공적으로 상태가 저장되었습니다."
+
+msgid "Supported"
+msgstr "지원"
+
+msgid "Swing left"
+msgstr "왼쪽 스윙"
+
+msgid "Swing right"
+msgstr "오른쪽 스윙"
+
+msgid "Swing up"
+msgstr "위쪽 스윙"
+
+msgid "Switch camera"
+msgstr "카메라 전환"
+
+msgid "Throw down"
+msgstr "아래쪽 던지기"
+
+msgid "Throw left"
+msgstr "왼쪽 던지기"
+
+msgid "Throw right"
+msgstr "오른쪽 던지기"
+
+msgid "Throw up"
+msgstr "위쪽 던지기"
+
+msgid "Throw"
+msgstr "던지기"
+
+msgid "to"
+msgstr "에게"
+
+msgid "Toggle A/R lock"
+msgstr "토글 A/R 잠김"
+
+msgid "Toggle auto rotation"
+msgstr "토글 자동 회전"
+
+msgid "Toggle screen sizes"
+msgstr "토글 화면 크기"
+
+msgid "Top menu exit"
+msgstr "상단 메뉴 종료"
+
+msgid "U/D"
+msgstr "U/D"
+
+msgid "Unable to mount"
+msgstr "마운트 할 수 없음"
+
+msgid "Unlocked"
+msgstr "잠금 해제"
+
+msgid "Up"
+msgstr "위쪽"
+
+msgid "Upright"
+msgstr "수직"
+
+msgid "USB Device"
+msgstr "USB 장치"
+
+msgid "Use power"
+msgstr "파워 사용"
+
+msgid "Use special"
+msgstr "스페셜 사용"
+
+msgid "Vert."
+msgstr "수직"
+
+msgid "Video filter"
+msgstr "비디오 필터"
+
+msgid "Video settings"
+msgstr "비디오 설정"
+
+msgid "Virtual Boy"
+msgstr "Virtual Boy"
+
+msgid "Volume"
+msgstr "볼륨"
+
+msgid "Wiimote (menu)"
+msgstr "위모트 (메뉴)"
+
+msgid "Wiimote + Nunchuk"
+msgstr "위모트 + 눈챠크"
+
+msgid "Wiimote"
+msgstr "위모트"
+
+msgid "WonderSwan"
+msgstr "WonderSwan"
+
+msgid "Yes"
+msgstr "예"
